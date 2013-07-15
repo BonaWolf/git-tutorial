@@ -25,6 +25,8 @@ frown upon using a gui, the tool provides the functionality we need.
 
 #####Congrats! You completed the git tutorial.
 
-####Windows Images
+#Screenshots
 
-####Mac Images
+####Windows
+
+####Mac
